@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/preesha73/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/preesha73/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/preesha73/DSA-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/preesha73/DSA-Problems/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/preesha73/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/preesha73/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/preesha73/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/preesha73/DSA-Problems/tree/master/0055-jump-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/preesha73/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/preesha73/DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/preesha73/DSA-Problems/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
