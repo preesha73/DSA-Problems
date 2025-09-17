@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/preesha73/DSA-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/preesha73/DSA-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/preesha73/DSA-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/preesha73/DSA-Problems/tree/master/0067-add-binary) |
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/preesha73/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/preesha73/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/preesha73/DSA-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/preesha73/DSA-Problems/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/preesha73/DSA-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 ## Greedy
@@ -193,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/preesha73/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/preesha73/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/preesha73/DSA-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
