@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/preesha73/DSA-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/preesha73/DSA-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/preesha73/DSA-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Recursion
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/preesha73/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/preesha73/DSA-Problems/tree/master/2245-destroying-asteroids) |
 | [2428-equal-row-and-column-pairs](https://github.com/preesha73/DSA-Problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/preesha73/DSA-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/preesha73/DSA-Problems/tree/master/0204-count-primes) |
 | [1372-check-if-it-is-a-good-array](https://github.com/preesha73/DSA-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/preesha73/DSA-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/preesha73/DSA-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
