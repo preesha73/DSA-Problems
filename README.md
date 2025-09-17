@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/preesha73/DSA-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/preesha73/DSA-Problems/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/preesha73/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/preesha73/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/preesha73/DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/preesha73/DSA-Problems/tree/master/1894-merge-strings-alternately) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/preesha73/DSA-Problems/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/preesha73/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/preesha73/DSA-Problems/tree/master/2245-destroying-asteroids) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Trie
 |  |
 | ------- |
