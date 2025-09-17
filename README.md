@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/preesha73/DSA-Problems/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/preesha73/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/preesha73/DSA-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/preesha73/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/preesha73/DSA-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/preesha73/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/preesha73/DSA-Problems/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/preesha73/DSA-Problems/tree/master/0861-flipping-an-image) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/preesha73/DSA-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
