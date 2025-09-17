@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/preesha73/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/preesha73/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/preesha73/DSA-Problems/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/preesha73/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
