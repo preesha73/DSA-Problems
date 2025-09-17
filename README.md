@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/preesha73/DSA-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/preesha73/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/preesha73/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/preesha73/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/preesha73/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/preesha73/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/preesha73/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/preesha73/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/preesha73/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
