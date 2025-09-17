@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/preesha73/DSA-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/preesha73/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/preesha73/DSA-Problems/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
@@ -175,9 +176,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/preesha73/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/preesha73/DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/preesha73/DSA-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/preesha73/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/preesha73/DSA-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
