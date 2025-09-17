@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/preesha73/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/preesha73/DSA-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/preesha73/DSA-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/preesha73/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/preesha73/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/preesha73/DSA-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/preesha73/DSA-Problems/tree/master/0119-pascals-triangle-ii) |
 ## Prefix Sum
 |  |
 | ------- |
