@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/preesha73/DSA-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/preesha73/DSA-Problems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/preesha73/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/preesha73/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/preesha73/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/preesha73/DSA-Problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/preesha73/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/preesha73/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/preesha73/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/preesha73/DSA-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/preesha73/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/preesha73/DSA-Problems/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/preesha73/DSA-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/preesha73/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/preesha73/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
