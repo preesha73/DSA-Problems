@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0434-number-of-segments-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
