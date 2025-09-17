@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/preesha73/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/preesha73/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/preesha73/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/preesha73/DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Tree
 |  |
 | ------- |
@@ -591,4 +592,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/preesha73/DSA-Problems/tree/master/1039-find-the-town-judge) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/preesha73/DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
