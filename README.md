@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/preesha73/DSA-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/preesha73/DSA-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [3201-distribute-candies-among-children-ii](https://github.com/preesha73/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/preesha73/DSA-Problems/tree/master/0204-count-primes) |
+| [3201-distribute-candies-among-children-ii](https://github.com/preesha73/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -603,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1039-find-the-town-judge](https://github.com/preesha73/DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/preesha73/DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/preesha73/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
