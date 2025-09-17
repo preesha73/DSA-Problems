@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/preesha73/DSA-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/preesha73/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/preesha73/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/preesha73/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
@@ -166,8 +167,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/preesha73/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/preesha73/DSA-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/preesha73/DSA-Problems/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/preesha73/DSA-Problems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/preesha73/DSA-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
