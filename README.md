@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/preesha73/DSA-Problems/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0283-move-zeroes) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/preesha73/DSA-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
