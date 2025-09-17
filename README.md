@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/preesha73/DSA-Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preesha73/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/preesha73/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preesha73/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/preesha73/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/preesha73/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
