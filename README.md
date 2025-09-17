@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/preesha73/DSA-Problems/tree/master/0313-super-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/preesha73/DSA-Problems/tree/master/0633-sum-of-square-numbers) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/preesha73/DSA-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0812-rotate-string](https://github.com/preesha73/DSA-Problems/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/preesha73/DSA-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/preesha73/DSA-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sliding Window
 |  |
 | ------- |
