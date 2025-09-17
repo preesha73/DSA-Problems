@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/preesha73/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1039-find-the-town-judge](https://github.com/preesha73/DSA-Problems/tree/master/1039-find-the-town-judge) |
+| [1319-unique-number-of-occurrences](https://github.com/preesha73/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/preesha73/DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/preesha73/DSA-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1319-unique-number-of-occurrences](https://github.com/preesha73/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
