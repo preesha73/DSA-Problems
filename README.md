@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/preesha73/DSA-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/preesha73/DSA-Problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/preesha73/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
