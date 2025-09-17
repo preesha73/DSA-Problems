@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/preesha73/DSA-Problems/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/preesha73/DSA-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/preesha73/DSA-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/preesha73/DSA-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/preesha73/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/preesha73/DSA-Problems/tree/master/0456-132-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/preesha73/DSA-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/preesha73/DSA-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Matrix
 |  |
 | ------- |
