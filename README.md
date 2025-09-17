@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/preesha73/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/preesha73/DSA-Problems/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/preesha73/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/preesha73/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/preesha73/DSA-Problems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/preesha73/DSA-Problems/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/preesha73/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/preesha73/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/preesha73/DSA-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/preesha73/DSA-Problems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/preesha73/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/preesha73/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/preesha73/DSA-Problems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/preesha73/DSA-Problems/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -350,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/preesha73/DSA-Problems/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/preesha73/DSA-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
