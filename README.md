@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/preesha73/DSA-Problems/tree/master/0313-super-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/preesha73/DSA-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/preesha73/DSA-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1372-check-if-it-is-a-good-array](https://github.com/preesha73/DSA-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/preesha73/DSA-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/preesha73/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1372-check-if-it-is-a-good-array](https://github.com/preesha73/DSA-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/preesha73/DSA-Problems/tree/master/0204-count-primes) |
+| [1372-check-if-it-is-a-good-array](https://github.com/preesha73/DSA-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
