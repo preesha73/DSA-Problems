@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/preesha73/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/preesha73/DSA-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/preesha73/DSA-Problems/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/preesha73/DSA-Problems/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/preesha73/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/preesha73/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/preesha73/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/preesha73/DSA-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/preesha73/DSA-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/preesha73/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/preesha73/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/preesha73/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/preesha73/DSA-Problems/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/preesha73/DSA-Problems/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/preesha73/DSA-Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
