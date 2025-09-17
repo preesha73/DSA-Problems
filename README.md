@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/preesha73/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/preesha73/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/preesha73/DSA-Problems/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/preesha73/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/preesha73/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/preesha73/DSA-Problems/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
