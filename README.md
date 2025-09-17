@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/preesha73/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/preesha73/DSA-Problems/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/preesha73/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/preesha73/DSA-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/preesha73/DSA-Problems/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/preesha73/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/preesha73/DSA-Problems/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/preesha73/DSA-Problems/tree/master/0561-array-partition) |
+| [1019-squares-of-a-sorted-array](https://github.com/preesha73/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
