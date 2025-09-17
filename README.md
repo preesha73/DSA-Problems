@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/preesha73/DSA-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/preesha73/DSA-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/preesha73/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/preesha73/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/preesha73/DSA-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/preesha73/DSA-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/preesha73/DSA-Problems/tree/master/0064-minimum-path-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/preesha73/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/preesha73/DSA-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/preesha73/DSA-Problems/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
