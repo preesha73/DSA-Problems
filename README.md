@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0812-rotate-string](https://github.com/preesha73/DSA-Problems/tree/master/0812-rotate-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/preesha73/DSA-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/preesha73/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/preesha73/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/preesha73/DSA-Problems/tree/master/0456-132-pattern) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/preesha73/DSA-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Matrix
 |  |
 | ------- |
