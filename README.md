@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0812-rotate-string](https://github.com/preesha73/DSA-Problems/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -515,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/preesha73/DSA-Problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
