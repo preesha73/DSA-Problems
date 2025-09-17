@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/preesha73/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1039-find-the-town-judge](https://github.com/preesha73/DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/preesha73/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/preesha73/DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/preesha73/DSA-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/preesha73/DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/preesha73/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/preesha73/DSA-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/preesha73/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1372-check-if-it-is-a-good-array](https://github.com/preesha73/DSA-Problems/tree/master/1372-check-if-it-is-a-good-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/preesha73/DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/preesha73/DSA-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/preesha73/DSA-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/preesha73/DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
