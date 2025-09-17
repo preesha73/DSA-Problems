@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/preesha73/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/preesha73/DSA-Problems/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/preesha73/DSA-Problems/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/preesha73/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/preesha73/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
