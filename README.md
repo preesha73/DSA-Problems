@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/preesha73/DSA-Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/preesha73/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/preesha73/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/preesha73/DSA-Problems/tree/master/0313-super-ugly-number) |
 | [0392-is-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0392-is-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -495,4 +497,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/preesha73/DSA-Problems/tree/master/0456-132-pattern) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
