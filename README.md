@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/preesha73/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/preesha73/DSA-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/preesha73/DSA-Problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/preesha73/DSA-Problems/tree/master/0066-plus-one) |
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/preesha73/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/preesha73/DSA-Problems/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/preesha73/DSA-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
