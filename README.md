@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/preesha73/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/preesha73/DSA-Problems/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/preesha73/DSA-Problems/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/preesha73/DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/preesha73/DSA-Problems/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
