@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/preesha73/DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/preesha73/DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/preesha73/DSA-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/preesha73/DSA-Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/preesha73/DSA-Problems/tree/master/0605-can-place-flowers) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/preesha73/DSA-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Trie
 |  |
 | ------- |
