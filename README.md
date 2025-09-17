@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/preesha73/DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/preesha73/DSA-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/preesha73/DSA-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/preesha73/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/preesha73/DSA-Problems/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/preesha73/DSA-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/preesha73/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/preesha73/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/preesha73/DSA-Problems/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/preesha73/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Backtracking
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/preesha73/DSA-Problems/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/preesha73/DSA-Problems/tree/master/0861-flipping-an-image) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/preesha73/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Memoization
 |  |
 | ------- |
