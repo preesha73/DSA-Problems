@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/preesha73/DSA-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/preesha73/DSA-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/preesha73/DSA-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/preesha73/DSA-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/preesha73/DSA-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/preesha73/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/preesha73/DSA-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/preesha73/DSA-Problems/tree/master/0204-count-primes) |
 | [1372-check-if-it-is-a-good-array](https://github.com/preesha73/DSA-Problems/tree/master/1372-check-if-it-is-a-good-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/preesha73/DSA-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
