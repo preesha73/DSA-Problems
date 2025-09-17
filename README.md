@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/preesha73/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/preesha73/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/preesha73/DSA-Problems/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/preesha73/DSA-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/preesha73/DSA-Problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/preesha73/DSA-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/preesha73/DSA-Problems/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/preesha73/DSA-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preesha73/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/preesha73/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/preesha73/DSA-Problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/preesha73/DSA-Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
 | ------- |
