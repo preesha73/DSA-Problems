@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/preesha73/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/preesha73/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/preesha73/DSA-Problems/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/preesha73/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/preesha73/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/preesha73/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/preesha73/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/preesha73/DSA-Problems/tree/master/0045-jump-game-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/preesha73/DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/preesha73/DSA-Problems/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
