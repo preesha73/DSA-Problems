@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/preesha73/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/preesha73/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preesha73/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/preesha73/DSA-Problems/tree/master/0155-min-stack) |
 ## Matrix
 |  |
 | ------- |
@@ -331,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/preesha73/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/preesha73/DSA-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
