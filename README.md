@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/preesha73/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/preesha73/DSA-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/preesha73/DSA-Problems/tree/master/0204-count-primes) |
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/preesha73/DSA-Problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/preesha73/DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/preesha73/DSA-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/preesha73/DSA-Problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
@@ -370,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/preesha73/DSA-Problems/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/preesha73/DSA-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/preesha73/DSA-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
