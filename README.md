@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/preesha73/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/preesha73/DSA-Problems/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/preesha73/DSA-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/preesha73/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/preesha73/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/preesha73/DSA-Problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/preesha73/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/preesha73/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/preesha73/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/preesha73/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/preesha73/DSA-Problems/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/preesha73/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/preesha73/DSA-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/preesha73/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/preesha73/DSA-Problems/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/preesha73/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/preesha73/DSA-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/preesha73/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/preesha73/DSA-Problems/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/preesha73/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
