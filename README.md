@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/preesha73/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0345-reverse-vowels-of-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/preesha73/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/preesha73/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
