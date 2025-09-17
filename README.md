@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/preesha73/DSA-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/preesha73/DSA-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/preesha73/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/preesha73/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/preesha73/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/preesha73/DSA-Problems/tree/master/0022-generate-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/preesha73/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/preesha73/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/preesha73/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/preesha73/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
