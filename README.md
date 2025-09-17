@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/preesha73/DSA-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/preesha73/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/preesha73/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/preesha73/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/preesha73/DSA-Problems/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
