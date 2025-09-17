@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/preesha73/DSA-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/preesha73/DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/preesha73/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2428-equal-row-and-column-pairs](https://github.com/preesha73/DSA-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/preesha73/DSA-Problems/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/preesha73/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/preesha73/DSA-Problems/tree/master/2245-destroying-asteroids) |
+| [2428-equal-row-and-column-pairs](https://github.com/preesha73/DSA-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/preesha73/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/preesha73/DSA-Problems/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/preesha73/DSA-Problems/tree/master/0945-snakes-and-ladders) |
+| [2428-equal-row-and-column-pairs](https://github.com/preesha73/DSA-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/preesha73/DSA-Problems/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/preesha73/DSA-Problems/tree/master/0861-flipping-an-image) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/preesha73/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2428-equal-row-and-column-pairs](https://github.com/preesha73/DSA-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Memoization
 |  |
 | ------- |
