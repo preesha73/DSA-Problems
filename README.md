@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/preesha73/DSA-Problems/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/preesha73/DSA-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/preesha73/DSA-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1252-break-a-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/1252-break-a-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/preesha73/DSA-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/preesha73/DSA-Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/preesha73/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/preesha73/DSA-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1252-break-a-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/1252-break-a-palindrome) |
 ## Trie
 |  |
 | ------- |
