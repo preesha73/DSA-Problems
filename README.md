@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/preesha73/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preesha73/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/preesha73/DSA-Problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/preesha73/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 ## Matrix
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/preesha73/DSA-Problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/preesha73/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -400,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/preesha73/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/preesha73/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
