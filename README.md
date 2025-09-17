@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/preesha73/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/preesha73/DSA-Problems/tree/master/0456-132-pattern) |
+| [0561-array-partition](https://github.com/preesha73/DSA-Problems/tree/master/0561-array-partition) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/preesha73/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/preesha73/DSA-Problems/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/preesha73/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0561-array-partition](https://github.com/preesha73/DSA-Problems/tree/master/0561-array-partition) |
 ## Trie
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/preesha73/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/preesha73/DSA-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/preesha73/DSA-Problems/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/preesha73/DSA-Problems/tree/master/0561-array-partition) |
 ## Stack
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/preesha73/DSA-Problems/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/preesha73/DSA-Problems/tree/master/0561-array-partition) |
 ## Monotonic Stack
 |  |
 | ------- |
