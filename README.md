@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/preesha73/DSA-Problems/tree/master/0313-super-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/preesha73/DSA-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/preesha73/DSA-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1370-count-number-of-nice-subarrays](https://github.com/preesha73/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/preesha73/DSA-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/preesha73/DSA-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2050-count-good-numbers](https://github.com/preesha73/DSA-Problems/tree/master/2050-count-good-numbers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/preesha73/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/preesha73/DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/preesha73/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/preesha73/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/preesha73/DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/preesha73/DSA-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/preesha73/DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/preesha73/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/preesha73/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/preesha73/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/preesha73/DSA-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/preesha73/DSA-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/preesha73/DSA-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/preesha73/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/preesha73/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/preesha73/DSA-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/preesha73/DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/preesha73/DSA-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/preesha73/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/preesha73/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/preesha73/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/preesha73/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/preesha73/DSA-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/preesha73/DSA-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Backtracking
