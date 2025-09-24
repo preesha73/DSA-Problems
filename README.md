@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/preesha73/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/preesha73/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/preesha73/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/preesha73/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/preesha73/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/preesha73/DSA-Problems/tree/master/0169-majority-element) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/preesha73/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/preesha73/DSA-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/preesha73/DSA-Problems/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/preesha73/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/preesha73/DSA-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preesha73/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/preesha73/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/preesha73/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/preesha73/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/preesha73/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
