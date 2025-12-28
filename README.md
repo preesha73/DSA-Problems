@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/preesha73/DSA-Problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/preesha73/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/preesha73/DSA-Problems/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/preesha73/DSA-Problems/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/preesha73/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/preesha73/DSA-Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/preesha73/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/preesha73/DSA-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/preesha73/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/preesha73/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/preesha73/DSA-Problems/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/preesha73/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/preesha73/DSA-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
